@@ -1,0 +1,25 @@
+# Maven
+target/
+*.war
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local config (keep db.properties.example in repo, but ignore real one)
+src/main/resources/db.properties
+
+# Tomcat work dir
+work/
