@@ -23,3 +23,8 @@ src/main/resources/db.properties
 
 # Tomcat work dir
 work/
+
+# Claude Code files (not for submission)
+.claude/
+CLAUDE_CODE_PROMPT.md
+BlissAndGlow-starter/
